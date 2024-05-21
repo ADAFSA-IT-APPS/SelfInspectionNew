@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108084335071",
+    "project_id": "selfinspection-189b4",
+    "storage_bucket": "selfinspection-189b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108084335071:android:4ca86cf2370b82fd4db46a",
+        "android_client_info": {
+          "package_name": "com.selfinspection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-pLvgXW4e3m2wzx5nstTO_Bqh2SrOxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
